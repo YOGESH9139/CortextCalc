@@ -20,3 +20,5 @@ response time. Watch as your mental math abilities grow with consistent practice
 Whether you're a student looking to improve your arithmetic skills, a teacher seeking an engaging educational tool,
 or anyone wanting to keep their mind sharp, CortexCalc Brain Trainer offers a fun, effective way to enhance your mathematical abilities.
 Start your journey to faster, more accurate mental calculations today!
+
+**We currently don't have any active domain. You can run this my downloading the "CortexCalc1" file and in cmd run "npm run dev" (prerequisites-npm)**
