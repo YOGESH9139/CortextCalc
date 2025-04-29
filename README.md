@@ -22,3 +22,29 @@ or anyone wanting to keep their mind sharp, CortexCalc Brain Trainer offers a fu
 Start your journey to faster, more accurate mental calculations today!
 
 **We currently don't have any active domain. You can run this my downloading the "CortexCalc1" file and in cmd run "npm run dev" (prerequisites-npm)**
+
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/YOGESH9139/CortextCalc/tree/main/CortexCalc1
+```
+
+Go to the project directory
+
+```bash
+  cd CortexCalc1
+```
+
+Install dependencies
+
+```bash
+  npm install
+```
+
+Start the server
+
+```bash
+  npm run start
+```
