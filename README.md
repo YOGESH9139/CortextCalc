@@ -28,7 +28,7 @@ Start your journey to faster, more accurate mental calculations today!
 Clone the project
 
 ```bash
-  git clone https://github.com/YOGESH9139/CortextCalc/tree/main/CortexCalc1
+  git clone https://github.com/YOGESH9139/CortextCalc/CortexCalc1
 ```
 
 Go to the project directory
