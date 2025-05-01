@@ -28,13 +28,13 @@ Start your journey to faster, more accurate mental calculations today!
 Clone the project
 
 ```bash
-  git clone https://github.com/YOGESH9139/CortextCalc/CortexCalc1
+  git clone https://github.com/YOGESH9139/CortextCalc
 ```
 
 Go to the project directory
 
 ```bash
-  cd CortexCalc1
+  cd CortextCalc/CortexCalc1
 ```
 
 Install dependencies
